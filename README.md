@@ -17,8 +17,6 @@ The project uses a `movies.csv` file with at least the following column:
 - `title`: Title of the movie  
 - `genres`: Genre(s) of the movie, originally in `Action|Adventure` format
 
-> 💡 Make sure the CSV file is placed in the same directory as the script.
-
 
 ## ⚙️ Technologies Used
 
