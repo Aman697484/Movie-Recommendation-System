@@ -43,14 +43,23 @@ movie_input = "Toy Story (1995)"
 Recommended movies for 'Toy Story (1995)':
 
 A Bug's Life (1998)
+
 Antz (1998)
+
 James and the Giant Peach (1996)
+
 Hercules (1997)
+
 Space Jam (1996)
+
 Mulan (1998)
+
 Tarzan (1999)
+
 Aladdin (1992)
+
 The Iron Giant (1999)
+
 Beauty and the Beast (1991)
 
 
